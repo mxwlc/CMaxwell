@@ -16,20 +16,20 @@ Here is my work for the Imperial EEE First year module Programming for Engineers
 
 This module covered a vast amount of topics including
 
--Programming environments
--Basic I/O
--Variables
--Expressions
--Conditionals
--Loops
--Functions
--Vectors
--Text Files
--The Standard Template Library
--Structured data types
--Classes
--Abstraction and encapsulation
--Arrays, pointers, dynamic memory
--Implementing data structures (vectors, lists, trees)
--Algorithms and recursion
--Introduction to inheritance and polymorphism
+- Programming environments
+- Basic I/O
+- Variables
+- Expressions
+- Conditionals
+- Loops
+- Functions
+- Vectors
+- Text Files
+- The Standard Template Library
+- Structured data types
+- Classes
+- Abstraction and encapsulation
+- Arrays, pointers, dynamic memory
+- Implementing data structures (vectors, lists, trees)
+- Algorithms and recursion
+- Introduction to inheritance and polymorphism
